@@ -31,7 +31,7 @@ Sou uma entusiasta de Cibersegurança com foco em **Defesa Cibernética** e **Mo
 ### 🏆 TryHackMe
 
 <a href="https://tryhackme.com/p/0xCAlencar">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/SEU_USUARIO_AQUI.png" alt="TryHackMe">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/0xCAlencar.png" alt="TryHackMe">
 </a>
 
 ---
@@ -43,6 +43,18 @@ Sou uma entusiasta de Cibersegurança com foco em **Defesa Cibernética** e **Mo
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCAlencar&layout=compact&theme=dracula&hide_border=true" />
 </p>
 <br><br><br><br><br><br><br><br>
+
+
+### 📫 Contato
+
+<p align="left">
+  <a href="[URL_DO_SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/maria-clara-alencar-48464a214/)" target="_blank">
+    <img src="[https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" target="_blank" />
+  </a>
+  <a href="mailto:clara.alencarr204@gmail.com" target="_blank">
+    <img src="[https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" target="_blank" />
+  </a>
+</p>
 
 ---
 <p align="center">
