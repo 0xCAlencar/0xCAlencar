@@ -1,4 +1,4 @@
-### Olá, sou a Clara! 👋
+### Oi, sou a Clara 👋
 #### 🛡️ Aspiring SOC Analyst & Blue Teamer
 
 Sou uma entusiasta de Cibersegurança com foco em **Defesa Cibernética** e **Monitoramento de Redes**. Atualmente, estou solidificando minha base em infraestrutura com a certificação Cisco e aprimorando minhas habilidades em automação e análise de logs.
