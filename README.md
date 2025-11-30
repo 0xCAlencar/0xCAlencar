@@ -1,16 +1,50 @@
-## Hi there 👋
+### Olá, sou a Clara! 👋
+#### 🛡️ Aspiring SOC Analyst & Blue Teamer
 
-<!--
-**0xCAlencar/0xCAlencar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma entusiasta de Cibersegurança com foco em **Defesa Cibernética** e **Monitoramento de Redes**. Atualmente, estou solidificando minha base em infraestrutura com a certificação Cisco e aprimorando minhas habilidades em automação e análise de logs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Estudando agora
+* 🔭 **Networking:** Finalizando o curso **CCNA 1** (Cisco).
+* 🐧 **Sistemas:** Aprofundando em administração **Linux** e hardening.
+* 💻 **Programação:** Aprendendo **Python** e **C** para entender malwares e criar scripts de automação.
+* 🗃️ **Dados:** Utilizando **SQL** para manipulação e análise de dados.
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+### 🏆 TryHackMe
+
+<a href="https://tryhackme.com/p/0xCAlencar">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/SEU_USUARIO_AQUI.png" alt="TryHackMe">
+</a>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=0xCAlencar&show_icons=true&theme=dracula&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCAlencar&layout=compact&theme=dracula&hide_border=true" />
+</p>
+<br><br><br><br><br><br><br><br>
+
+---
+<p align="center">
+  <i>"The quieter you become, the more you are able to hear."</i>
+</p>
