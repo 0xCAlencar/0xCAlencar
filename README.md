@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Clara+Alencar;Blue+Team+%26+SOC+Analyst;Network+Security+Student;Powered+by+Caffeine+%26+Linux" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Clara;Blue+Team+%26+SOC+Analyst;Network+Security+Student;Powered+by+Linux+%26+Curiosity" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <h3>🛠️ Arsenal Técnico</h3>
+  <h3>🛠️ Hard Skills</h3>
   
   <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-Kali%20%2F%20Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -44,14 +44,14 @@
 <div align="center">
   <h3>📫 Vamos Conectar?</h3>
   
-  <a href="https://www.linkedin.com/in/0xcalencar/" target="_blank">
+  <a href="https://www.linkedin.com/in/maria-clara-alencar-48464a214/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu_email_aqui@gmail.com">
+  <a href="mailto:clara.alencarr205@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send%20Msg-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
   <br><br>
   
-  <i>"You can't protect what you can't see."</i>
+  <i>"The quieter you become, the more you are able to hear."</i>
 </div>
